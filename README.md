@@ -42,7 +42,7 @@ I discovered Stationeers with you guys and your ideas and support are very appre
 
 A great deal of features are in the pipeline but these are the main ones coming up:
 
-- Improved loading messages (in-progress)
+- ~~Improved loading messages~~ (done)
 - "Things" explorer (in-progress)
 - Undo an apply (planned)
 - Terraforming (planned)
