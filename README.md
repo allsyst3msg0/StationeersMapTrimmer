@@ -14,6 +14,7 @@ This utility allows you to visualize your base and any piece of land that exists
 
 The same executable contains both a graphical interface (GUI) and a command line (CLI) that are made available for Windows, Mac and Linux, making this tool suitable for dedicated servers too.
 
+<img src="assets/StationeersMapTrimmer_sc01.png?raw=true" alt="StationeersMapTrimmer SC01" title="StationeersMapTrimmer Screenshot 01" />
 
 ## Downloads
 
@@ -42,6 +43,7 @@ I discovered Stationeers with you guys and your ideas and support are very appre
 A great deal of features are in the pipeline but these are the main ones coming up:
 
 - Improved loading messages (in-progress)
+- "Things" explorer (in-progress)
 - Undo an apply (planned)
 - Terraforming (planned)
 - 3d visualization (tested / de-risked)
